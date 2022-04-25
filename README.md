@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kate.
+
+I graduated with my MS in Physical Chemistry at the end of 2014.  I had my first taste of programming in grad school (good old Fortran!) and started learning Python a few years later, primarily for data analysis and graphing.  In 2021 I decided to take my career in a different direction and did a batch at the Recurse Center where I started learning JavaScript and web development.  Check out some of my projects [here!](https://radicalprecursor.github.io)
+
+- 🔭 Currently working on: [anothersky](https://main.d173h0x7e3s4ew.amplifyapp.com), randomly-generated starscapes you can save and share
+- 📖 Currently Reading: Designing Data-Intensive Applications
+- 🐋 My White Whale Project: Quick-Draw, an organic chemistry nomenclature game
+- ⚗️ Fun Chemistry Fact: While alchemists could never make gold, but as early as the 14th century some had worked out an acid cocktail that will *dissolve* gold, which is far more metal if you ask me
 
 <!--
 **RadicalPrecursor/RadicalPrecursor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
